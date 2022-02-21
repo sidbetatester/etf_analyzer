@@ -66,7 +66,8 @@ voila etf_analyzer.ipynb
 
 ```
 
-![Voila etf_analyzer screenrecording](Images/Web_Application_ETF_Analyzer.mp4)
+[![Voila etf_analyzer screenrecording](Images/Screenshot_Web_Application_ETF_Analyzer.jpg)](Images/Web_Application_ETF_Analyzer.mp4)
+
 
 Note:
 * You can shut down the notebook from the File menu when you are done using the report.
